@@ -180,7 +180,7 @@ const Dashboard: React.FC = () => {
                   src={nextAppointment.user.avatar_url}
                   alt={nextAppointment.user.name}
                 />
-                <strong>ARTHUR PC</strong>
+                <strong>Pablo M.</strong>
                 <span>
                   <FiClock />
                   {nextAppointment.hourFormatted}
